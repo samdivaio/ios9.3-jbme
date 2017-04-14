@@ -11,3 +11,8 @@ https://jbme.qwertyoruiop.com/index.html
 https://jbme.qwertyoruiop.com/exec
 
 https://jbme.qwertyoruiop.com/loader
+
+# installation
+
+git clone https://github.com/VF128S/ios9.3.3-jailbreak-website.git
+
