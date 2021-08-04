@@ -11,8 +11,3 @@ https://jbme.qwertyoruiop.com/index.html
 https://jbme.qwertyoruiop.com/exec
 
 https://jbme.qwertyoruiop.com/loader
-
-# installation
-
-`git clone`
-
